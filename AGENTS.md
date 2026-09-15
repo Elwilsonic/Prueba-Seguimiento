@@ -62,3 +62,10 @@ REGLAS GENERALES:
 - Mantené la trazabilidad explícita: al final de cada historia, escribí
   un resumen de una línea con la cadena completa:
   Historia → SDD → Criterios de Aceptación → BDD → Tests → Código Go
+
+TERMINOLOGÍA DEL PROYECTO:
+- Usar siempre "Agile Enabler" en vez de "Scrum Master" para referirte al
+  rol que organiza las ceremonias de Scrum (es el mismo rol, pero así se
+  llama en este TP).
+- Los roles válidos del equipo son: Product Architect (profesores),
+  Agile Enabler (un integrante), Product Builder (el resto del equipo).
